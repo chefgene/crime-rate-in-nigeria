@@ -1,6 +1,6 @@
 # crime-rate-in-nigeria
 
-## crime rate in the Geopolitical zones of Nigeria
+## crime rate in the Six Geopolitical zones of Nigeria
 
 I did a report on various crimes committed in Nigeria in the year 2017 filtered by OFFENCE AGAINST PERSONS I worked with a dataset provided by the National Bureau of Statistics Nigeria
 
