@@ -1,3 +1,4 @@
+![](https://github.com/chefgene/crime-rate-in-nigeria/blob/main/th.jfif)
 # crime-rate-in-nigeria
 
 ## crime rate in the Six Geopolitical zones of Nigeria
